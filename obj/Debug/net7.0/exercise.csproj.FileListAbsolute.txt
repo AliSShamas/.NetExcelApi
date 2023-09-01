@@ -1,0 +1,227 @@
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\exercise\obj\Debug\net7.0\exercise.csproj.AssemblyReference.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\exercise\obj\Debug\net7.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\exercise\obj\Debug\net7.0\exercise.AssemblyInfoInputs.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\exercise\obj\Debug\net7.0\exercise.AssemblyInfo.cs
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\exercise\obj\Debug\net7.0\exercise.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\exercise\obj\Debug\net7.0\exercise.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\exercise\obj\Debug\net7.0\exercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\appsettings.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\exercise.exe
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\exercise.deps.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\exercise.runtimeconfig.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\exercise.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\exercise.pdb
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\Enums.NET.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\NPOI.Core.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\NPOI.OOXML.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\exercise.csproj.AssemblyReference.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\exercise.AssemblyInfoInputs.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\exercise.AssemblyInfo.cs
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\exercise.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\exercise.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\exercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\staticwebassets\msbuild.exercise.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\staticwebassets\msbuild.build.exercise.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.exercise.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.exercise.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\scopedcss\bundle\exercise.styles.css
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\exercise.csproj.CopyComplete
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\exercise.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\refint\exercise.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\exercise.pdb
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\exercise.genruntimeconfig.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\exercise\obj\Debug\net7.0\ref\exercise.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\appsettings.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\exercise.exe
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\exercise.deps.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\exercise.runtimeconfig.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\exercise.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\exercise.pdb
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\Enums.NET.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\NPOI.Core.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\NPOI.OOXML.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\exercise.csproj.AssemblyReference.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\exercise.AssemblyInfoInputs.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\exercise.AssemblyInfo.cs
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\exercise.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\exercise.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\exercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\staticwebassets\msbuild.exercise.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\staticwebassets\msbuild.build.exercise.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.exercise.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.exercise.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\scopedcss\bundle\exercise.styles.css
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\exercise.csproj.CopyComplete
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\exercise.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\refint\exercise.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\exercise.pdb
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\exercise.genruntimeconfig.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise\obj\Debug\net7.0\ref\exercise.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\appsettings.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\exercise.exe
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\exercise.deps.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\exercise.runtimeconfig.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\exercise.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\exercise.pdb
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\Enums.NET.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\NPOI.Core.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\NPOI.OOXML.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\exercise.csproj.AssemblyReference.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\exercise.AssemblyInfoInputs.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\exercise.AssemblyInfo.cs
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\exercise.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\exercise.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\exercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\staticwebassets\msbuild.exercise.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\staticwebassets\msbuild.build.exercise.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.exercise.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.exercise.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\scopedcss\bundle\exercise.styles.css
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\exercise.csproj.CopyComplete
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\exercise.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\refint\exercise.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\exercise.pdb
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\exercise.genruntimeconfig.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\exercise(Ali trying Lila Excel)\obj\Debug\net7.0\ref\exercise.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\appsettings.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\exercise.exe
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\exercise.deps.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\exercise.runtimeconfig.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\exercise.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\exercise.pdb
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\Enums.NET.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\NPOI.Core.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\NPOI.OOXML.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\exercise.csproj.AssemblyReference.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\exercise.AssemblyInfoInputs.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\exercise.AssemblyInfo.cs
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\exercise.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\exercise.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\exercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\staticwebassets\msbuild.exercise.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\staticwebassets\msbuild.build.exercise.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.exercise.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.exercise.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\scopedcss\bundle\exercise.styles.css
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\exercise.csproj.CopyComplete
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\exercise.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\refint\exercise.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\exercise.pdb
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\exercise.genruntimeconfig.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\AliExcelNet\obj\Debug\net7.0\ref\exercise.dll
